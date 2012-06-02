@@ -1,0 +1,109 @@
+fileFormatVersion: 1
+guid: 6ac6f7f0bc3385b48a3cf31e87bb2940
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    polySurface18:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    polySurface17:
+    - 100002
+    - 400002
+    polySurface16:
+    - 100004
+    - 400004
+    //RootNode:
+    - 100006
+    - 400006
+    - 11100000
+    polySurface15:
+    - 100008
+    - 400008
+    polySurface14:
+    - 100010
+    - 400010
+    polySurface13:
+    - 100012
+    - 400012
+    polySurface12:
+    - 100014
+    - 400014
+    transform1:
+    - 100016
+    - 400016
+    - 3300010
+    - 2300010
+    polySurface11:
+    - 100018
+    - 400018
+    transform2:
+    - 100020
+    - 400020
+    - 3300012
+    - 2300012
+    transform3:
+    - 100024
+    - 400024
+    - 3300014
+    - 2300014
+    transform4:
+    - 100028
+    - 400028
+    - 3300016
+    - 2300016
+    transform5:
+    - 100032
+    - 400032
+    - 3300018
+    - 2300018
+    transform6:
+    - 100036
+    - 400036
+    - 3300020
+    - 2300020
+    transform7:
+    - 100040
+    - 400040
+    - 3300022
+    - 2300022
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: pCylinder1
+    4300002: pCube1
+    4300004: pCube2
+    4300006: pCube3
+    4300008: pCube4
+    4300010: pCube5
+    4300012: pCube6
+    4300014: polySurface2
+    4300016: transform7
+    4300018: transform6
+    4300020: transform5
+    4300022: transform4
+    4300024: transform3
+    4300026: transform2
+    4300028: transform1
+    4300030: polySurface10
+    4300032: polySurface18

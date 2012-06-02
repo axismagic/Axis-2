@@ -1,0 +1,42 @@
+fileFormatVersion: 1
+guid: 00dc2fbd46abe16498aa0ab6f2904ea4
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    fin_0_pivot:
+    - 100000
+    - 400000
+    //RootNode:
+    - 100002
+    - 400002
+    - 11100000
+    root_fin_0:
+    - 100004
+    - 400004
+    - 13700000
+    Fin_L:
+    - 100006
+    - 400006
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Fin_L

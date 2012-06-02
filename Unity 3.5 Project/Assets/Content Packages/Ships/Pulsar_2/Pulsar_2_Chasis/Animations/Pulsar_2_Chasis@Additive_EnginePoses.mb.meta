@@ -1,0 +1,87 @@
+fileFormatVersion: 1
+guid: 89b25186b2553934398711ac59c361c4
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    Body:
+    - 100002
+    - 400002
+    - 13700000
+    att_gen_1:
+    - 100004
+    - 400004
+    att_gen_0:
+    - 100006
+    - 400006
+    att_eng_1:
+    - 100008
+    - 400008
+    att_gen_2:
+    - 100010
+    - 400010
+    att_wep_0:
+    - 100012
+    - 400012
+    Engines:
+    - 100014
+    - 400014
+    - 13700002
+    Window:
+    - 100016
+    - 400016
+    - 13700004
+    OilTanks:
+    - 100018
+    - 400018
+    - 13700006
+    Pipes:
+    - 100020
+    - 400020
+    - 13700008
+    att_eng_0:
+    - 100022
+    - 400022
+    att_wep_1:
+    - 100024
+    - 400024
+    wep_1_pivot:
+    - 100026
+    - 400026
+    wep_0_pivot:
+    - 100028
+    - 400028
+    root_chasis:
+    - 100030
+    - 400030
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Window
+    4300002: Engines
+    4300004: Pipes
+    4300006: OilTanks
+    4300008: Body
+    7400000: Take 001 //// Pulsar_2_Chasis@Additive_EnginePoses

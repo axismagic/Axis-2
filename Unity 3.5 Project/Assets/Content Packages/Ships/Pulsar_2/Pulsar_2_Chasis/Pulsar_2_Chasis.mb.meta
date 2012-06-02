@@ -1,0 +1,86 @@
+fileFormatVersion: 1
+guid: 2c2325548217b544dace52824554c5c7
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    att_eng_1:
+    - 100000
+    - 400000
+    //RootNode:
+    - 100002
+    - 400002
+    - 11100000
+    att_gen_2:
+    - 100004
+    - 400004
+    att_wep_1:
+    - 100006
+    - 400006
+    Body:
+    - 100008
+    - 400008
+    - 13700000
+    wep_1_pivot:
+    - 100010
+    - 400010
+    att_eng_0:
+    - 100012
+    - 400012
+    att_gen_0:
+    - 100014
+    - 400014
+    att_gen_1:
+    - 100016
+    - 400016
+    att_wep_0:
+    - 100018
+    - 400018
+    wep_0_pivot:
+    - 100020
+    - 400020
+    root_chasis:
+    - 100022
+    - 400022
+    OilTanks:
+    - 100024
+    - 400024
+    - 13700002
+    Pipes:
+    - 100026
+    - 400026
+    - 13700004
+    Engines:
+    - 100028
+    - 400028
+    - 13700006
+    Window:
+    - 100030
+    - 400030
+    - 13700008
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Body
+    4300002: Window
+    4300004: Engines
+    4300006: Pipes
+    4300008: OilTanks

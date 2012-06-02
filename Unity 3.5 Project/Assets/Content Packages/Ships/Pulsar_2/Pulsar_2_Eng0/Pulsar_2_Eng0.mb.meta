@@ -1,0 +1,48 @@
+fileFormatVersion: 1
+guid: 50f04fc03de0f57408f011ce326a416c
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    root_eng_0:
+    - 100002
+    - 400002
+    - 13700000
+    Engine_L:
+    - 100004
+    - 400004
+    eng_0_booster_side:
+    - 100006
+    - 400006
+    eng_0_booster_bottom:
+    - 100008
+    - 400008
+    eng_0_booster_top:
+    - 100010
+    - 400010
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Engine_L

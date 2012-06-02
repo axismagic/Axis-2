@@ -1,0 +1,63 @@
+fileFormatVersion: 1
+guid: d18832921d37bf34196f87590714c6fe
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 1
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    polySurface6:
+    - 100002
+    - 400002
+    att_wep_1:
+    - 100004
+    - 400004
+    att_wep_0:
+    - 100006
+    - 400006
+    att_gen_0:
+    - 100008
+    - 400008
+    att_gen_1:
+    - 100010
+    - 400010
+    att_gen_3:
+    - 100012
+    - 400012
+    att_gen_2:
+    - 100014
+    - 400014
+    att_eng_1:
+    - 100016
+    - 400016
+    att_eng_0:
+    - 100018
+    - 400018
+    root_chasis:
+    - 100020
+    - 400020
+    - 13700000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface6

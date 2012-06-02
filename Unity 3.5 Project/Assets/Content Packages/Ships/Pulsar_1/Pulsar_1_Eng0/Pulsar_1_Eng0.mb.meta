@@ -1,0 +1,45 @@
+fileFormatVersion: 1
+guid: 3e0c13ab67435594f9700024bc3cc8cb
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 1
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    polySurface10:
+    - 100000
+    - 400000
+    //RootNode:
+    - 100002
+    - 400002
+    - 11100000
+    root_eng_0:
+    - 100004
+    - 400004
+    - 13700000
+    eng_0_booster_bottom:
+    - 100006
+    - 400006
+    eng_0_booster_top:
+    - 100008
+    - 400008
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface10

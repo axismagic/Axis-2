@@ -1,0 +1,86 @@
+fileFormatVersion: 1
+guid: 9ba3f42559834834c953182669c2daa5
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+    generateSecondaryUV: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    ROOM:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    ROOM_CORRIDOOR_01_TRAIN_LINE:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    ROOM_CORRIDOOR_01_DECALS:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    ROOM_CORRIDOOR_01_BAY_NUMBER:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    ROOM_CORRIDOOR_01_PIPES:
+    - 100008
+    - 400008
+    - 3300008
+    - 2300008
+    //RootNode:
+    - 100010
+    - 400010
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: ROOM_CORRIDOOR
+    4300002: RAILS_TEMP
+    4300004: PIPES
+    4300006: BAY_NUMBER
+    4300008: DECALS
+    4300010: transform3
+    4300012: transform2
+    4300014: polySurface3
+    4300016: transform1
+    4300018: transform4
+    4300020: polySurface8
+    4300022: TRAIN_LINE
+    4300024: ROOM_CORRIDOOR_01_ROOM
+    4300026: ROOM_CORRIDOOR_01_PIPES
+    4300028: ROOM_CORRIDOOR_01_BAY_NUMBER
+    4300030: ROOM_CORRIDOOR_01_DECALS
+    4300032: ROOM_CORRIDOOR_01_TRAIN_LINE
+    4300034: ROOM_CORRIDOOR_01_ROOM1
+    4300036: polySurface1
+    4300038: polySurface206
+    4300040: polySurface215
+    4300042: ROOM_CORRIDOOR_01_CORRIDOOR
+    4300044: CEILING_LIGHTS
+    4300046: ROOMS
+    4300048: ROOM

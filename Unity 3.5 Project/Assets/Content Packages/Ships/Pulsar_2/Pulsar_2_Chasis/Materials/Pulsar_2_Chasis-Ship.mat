@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Pulsar_2_Chasis-Ship
+  m_Shader: {fileID: 4800000, guid: 97e9ce05981257441855c6fd63e579b2, type: 1}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 5f8e64ccf8e927d44adacad26525c8bd, type: 1}
+          m_Scale: {x: 1.000000, y: 1.000000}
+          m_Offset: {x: 0.000000, y: 0.000000}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1.000000, y: 1.000000}
+          m_Offset: {x: 0.000000, y: 0.000000}
+      data:
+        first:
+          name: _SpecularMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 5f8e64ccf8e927d44adacad26525c8bd, type: 1}
+          m_Scale: {x: 1.000000, y: 1.000000}
+          m_Offset: {x: 0.000000, y: 0.000000}
+      data:
+        first:
+          name: _NormalsMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 3fabe810ad62c7a47bceb234a77ba7c0, type: 1}
+          m_Scale: {x: 1.000000, y: 1.000000}
+          m_Offset: {x: 0.000000, y: 0.000000}
+      data:
+        first:
+          name: _EnvSpecColour
+        second:
+          m_Texture: {fileID: 8900000, guid: 1416a2d03cf289448bea2a4b30e30651, type: 2}
+          m_Scale: {x: 1.000000, y: 1.000000}
+          m_Offset: {x: 0.000000, y: 0.000000}
+      data:
+        first:
+          name: _GlowMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 532cb13590bfaa94b83b9a94c2a1a31a, type: 1}
+          m_Scale: {x: 1.000000, y: 1.000000}
+          m_Offset: {x: 0.000000, y: 0.000000}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: 0.424925
+      data:
+        first:
+          name: _FresnelPow
+        second: 0.704782
+      data:
+        first:
+          name: _Glossiness
+        second: 0.000000
+      data:
+        first:
+          name: _FresnelIntensity
+        second: 3.865672
+      data:
+        first:
+          name: _DiffuseFresnelPower
+        second: 3.074908
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 0.738806, g: 0.738806, b: 0.738806, a: 1.000000}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 1.000000, g: 1.000000, b: 1.000000, a: 1.000000}
+      data:
+        first:
+          name: _SpecularColor
+        second: {r: 1.000000, g: 1.000000, b: 1.000000, a: 1.000000}
+      data:
+        first:
+          name: _DiffuseFresnelColor
+        second: {r: 0.679104, g: 0.679104, b: 0.679104, a: 1.000000}
+      data:
+        first:
+          name: _ReflectionAmount
+        second: {r: 0.104478, g: 0.104478, b: 0.104478, a: 1.000000}
+      data:
+        first:
+          name: _Emission
+        second: {r: 0.000000, g: 0.000000, b: 0.000000, a: 0.000000}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

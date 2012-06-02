@@ -1,0 +1,68 @@
+fileFormatVersion: 1
+guid: 9dd1a59ad23a7c9469b4715da134802b
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      Booster_Max_Top:
+        firstFrame: 0
+        lastFrame: 1
+        loop: 0
+        wrapMode: 0
+      Booster_Max_Side:
+        firstFrame: 10
+        lastFrame: 11
+        loop: 0
+        wrapMode: 0
+      Booster_Max_Bottom:
+        firstFrame: 20
+        lastFrame: 21
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    eng_0_booster_side:
+    - 100000
+    - 400000
+    eng_0_booster_bottom:
+    - 100002
+    - 400002
+    eng_0_booster_top:
+    - 100004
+    - 400004
+    //RootNode:
+    - 100006
+    - 400006
+    - 11100000
+    Engine_L:
+    - 100008
+    - 400008
+    root_eng_0:
+    - 100010
+    - 400010
+    - 13700000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Engine_L
+    7400000: Take 001 //// Pulsar_2_Eng0@AdditivePoses
+    7400002: Booster_Max_Top //// Pulsar_2_Eng0@AdditivePoses
+    7400004: Booster_Max_Side //// Pulsar_2_Eng0@AdditivePoses
+    7400006: Booster_Max_Bottom //// Pulsar_2_Eng0@AdditivePoses

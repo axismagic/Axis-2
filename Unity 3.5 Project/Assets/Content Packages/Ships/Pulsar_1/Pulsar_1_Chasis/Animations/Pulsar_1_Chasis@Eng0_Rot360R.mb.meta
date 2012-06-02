@@ -1,0 +1,64 @@
+fileFormatVersion: 1
+guid: f601325fb75c1f34bab07a1a183e1b46
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.01
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    att_wep_0:
+    - 100000
+    - 400000
+    att_gen_3:
+    - 100002
+    - 400002
+    att_eng_1:
+    - 100004
+    - 400004
+    root_chasis:
+    - 100006
+    - 400006
+    - 13700000
+    att_wep_1:
+    - 100008
+    - 400008
+    polySurface6:
+    - 100010
+    - 400010
+    att_gen_1:
+    - 100012
+    - 400012
+    att_gen_0:
+    - 100014
+    - 400014
+    att_eng_0:
+    - 100016
+    - 400016
+    att_gen_2:
+    - 100018
+    - 400018
+    //RootNode:
+    - 100020
+    - 400020
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface6
+    7400000: Take 001 //// Pulsar_1_Chasis@Eng0_Rot360R

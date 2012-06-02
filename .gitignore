@@ -62,6 +62,9 @@ local.properties
 *.vspscc
 .builds
 **/*.dotCover
+*.csproj
+*.pidb
+*.unityproj
 
 ## TODO: If you have NuGet Package Restore enabled, uncomment this
 #**/packages/ 
@@ -165,10 +168,3 @@ pip-log.txt
 Unity 3.5 Project/Library/
 Unity 3.5 Project/obj/
 Unity 3.5 Project/Temp/
-Unity 3.5 Project/Assembly-CSharp.csproj
-Unity 3.5 Project/Assembly-CSharp-Editor.csproj
-Unity 3.5 Project/Assembly-CSharp-Editor-vs.csproj
-Unity 3.5 Project/Assembly-CSharp-vs.csproj
-Unity 3.5 Project/Unity 3.5 Project.sln
-Unity 3.5 Project/Unity 3.5 Project-csharp.sln
-Unity 3.5 Project/Unity 3.5 Project-csharp.suo
