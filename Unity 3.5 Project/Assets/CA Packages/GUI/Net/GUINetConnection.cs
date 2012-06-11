@@ -31,10 +31,11 @@ public class GUINetConnection : MonoBehaviour {
 	void Awake() {
         int Index = UnityEngine.Random.Range(0, Names.Length-1);
         PlayerName = Names[Index];
-
- 		MasterServer.ipAddress = "10.0.11.19";
-    	MasterServer.port = 23466;
-        MasterServer.dedicatedServer = true;
+		
+		// Don't use our own Server.
+ 		//MasterServer.ipAddress = "10.0.11.19";
+    	//MasterServer.port = 23466;
+        //MasterServer.dedicatedServer = true;
 		
 		ServerConnectRect = new Rect(Screen.width / 2 - 140, Screen.height / 2 - 250, 280, 150);
 		ServerDisconnectRect = new Rect(Screen.width / 2 - 140, Screen.height / 2 - 50, 280, 20);
