@@ -19,7 +19,6 @@ public class GUINetConnection : MonoBehaviour {
 	private string GameName = "CodenameAxix";
 	private string ServerIP = "127.0.0.1";
 	private int ServerPort = 29000;
-	private bool UseNAT = false;
 	
 	private bool ShowDisconnect = false;
 
@@ -158,7 +157,7 @@ public class GUINetConnection : MonoBehaviour {
 		// Start a new server
         if (GUILayout.Button("Start Server (Port " + ServerPort + ")", GUILayout.Width(240)))
         {
-            Network.InitializeServer(15, ServerPort, UseNAT);
+            Network.InitializeServer(15, ServerPort, !Network.HavePublicAddress());
             MasterServer.RegisterHost("AXIX", GameName, "Just A Bit Of Fun!");
 		}
 
